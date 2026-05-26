@@ -1,5 +1,16 @@
 # 💫 About Me:
-I am a Computer Science student and Full Stack Developer based in Bangladesh. My approach to software is rooted in engineering principles and data-driven results. From managing complex MongoDB Atlas clusters to building predictive models for healthcare, I enjoy solving architectural challenges that require both precision and scalability.<br><br>With a solid foundation in Machine Learning (Gradient Descent, Random Forest) and Digital Logic, I build applications that are as intelligent as they are functional. I am a firm believer in collaborative development and open-source contribution.<br><br>Tech Stack: JavaScript (Next.js/Node.js), Python, C++, and PostgreSQL.<br><br>Focus: Scalable architecture, research-focused dashboards, and API security.
+I’m a Computer Science student and Software Engineer from Bangladesh with a strong focus on building scalable, production-ready applications and solving real-world engineering problems. My work combines full-stack development, backend architecture, and applied machine learning to create systems that are both efficient and reliable.
+
+I enjoy designing modern web applications, secure APIs, and data-driven platforms that prioritize performance, maintainability, and user experience. From developing full-stack systems with authentication and database optimization to working on research-oriented predictive models, I approach software with an engineering mindset focused on scalability and clean architecture.
+
+My technical background includes full-stack development, database systems, machine learning fundamentals, and software engineering principles. I am particularly interested in backend systems, intelligent applications, cloud infrastructure, and research-driven software solutions.
+
+Tech Stack: JavaScript (Next.js, Node.js, React), Python, C++, PostgreSQL, MongoDB, Tailwind CSS, REST APIs, JWT Authentication.
+
+Core Interests: Scalable system design, backend engineering, machine learning applications, secure API development, and research-focused software solutions.
+
+I am continuously learning, building, and contributing to projects that challenge me to grow as an engineer while creating meaningful and impactful technology.
+
 
 
 ## 🌐 Socials:

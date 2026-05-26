@@ -24,7 +24,6 @@ I am continuously learning, building, and contributing to projects that challeng
 ![](https://streak-stats.demolab.com/?user=SadiaBhaks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SadiaBhaks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=SadiaBhaks&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
